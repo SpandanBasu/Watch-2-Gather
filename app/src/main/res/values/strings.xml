@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Watch2Gather</string>
+    <string name="allowPermissionTitle">Allow Permissions</string>
+    <string name="allowPermissionDesc">Please grant all the permissions to allow uninterrupted usage</string>
+    <string name="allowPermissionBtn">ALLOW</string>
+    <string name="permmisionDialogueTitle">Storage permission needed</string>
+    <string name="permmisionDialogueMsg">Storage access is must for browsing videos.\n\nNow please follow the instructions\n\nClick on the Settings button below\nClick on Permissions\nAllow access for Storage</string>
+    <string name="videoCatalogue">Video Catalogue</string>
+    <string name="browse">Browse Folder</string>
+    <string name="connect">Connect with Others</string>
+    <string name="users">Users</string>
+    <string name="status">Status</string>
+    <string name="playback_state">Playback_State</string>
+</resources>

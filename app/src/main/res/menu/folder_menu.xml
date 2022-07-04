@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/search"
+        android:title="Search"
+        app:showAsAction="always"
+        android:icon="@drawable/search_icon"/>
+    <item android:id="@+id/refresh_folders"
+        android:title="Refresh"
+        android:icon="@drawable/refresh_icon"
+        app:showAsAction="ifRoom"/>
+    <item android:id="@+id/share_app"
+        android:title="Share App"
+        app:showAsAction="never"/>
+    <item android:id="@+id/rate_us"
+        android:title="Rate Us"
+        app:showAsAction="never"/>
+</menu>

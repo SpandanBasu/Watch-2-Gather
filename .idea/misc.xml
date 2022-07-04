@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/drawable/bottomsheet_bg.xml" value="0.1105" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/drawable/browse_folder_logo.xml" value="0.259" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/drawable/button_back.xml" value="0.259" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/drawable/circle_back.xml" value="0.332" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/drawable/circle_back_green.xml" value="0.259" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/drawable/connect_logo.xml" value="0.259" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/drawable/share_icon.xml" value="0.259" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/activity_allow_access.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/activity_browse_folder.xml" value="0.35104166666666664" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/activity_connect.xml" value="0.35104166666666664" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/activity_video_catalogue.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/activity_video_files.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/activity_video_player.xml" value="0.159375" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/catalogue_grid.xml" value="0.22" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/custom_control_layout.xml" value="0.33" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/folder_list_item.xml" value="0.35104166666666664" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/video_bs_layout.xml" value="0.25" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/layout/video_list_item.xml" value="0.25" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/menu/folder_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Android_Apps/Watch2Gather/app/src/main/res/menu/main_activity_menu.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

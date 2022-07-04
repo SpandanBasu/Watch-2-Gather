@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="12dp">
+    <RelativeLayout
+        android:id="@+id/topCard"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <androidx.cardview.widget.CardView
+        android:foregroundGravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:padding="12dp"
+        app:cardCornerRadius="20dp">
+        <ImageView
+            android:id="@+id/img_thumb_cat"
+            android:scaleType="centerCrop"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/video_thumb"/>
+        <TextView
+            android:id="@+id/video_dur_cat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:background="@color/light_dark"
+            android:gravity="bottom"
+            android:padding="4dp"
+            android:text="5:03"
+            android:textColor="@color/white"
+            android:textSize="16sp"/>
+    </androidx.cardview.widget.CardView>
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/video_title_cat"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/topCard"
+        android:text="Video Name"
+        android:textSize="17sp"
+        android:textColor="@color/black"
+        android:maxLines="1"
+        android:ellipsize="end"/>
+
+</RelativeLayout>
