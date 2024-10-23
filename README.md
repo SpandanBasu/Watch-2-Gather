@@ -1,6 +1,8 @@
 # Watch-2-Gather
 An Application to watch movies together with your long distance friends and family. Watch together or Watch to Gather close!
 
+![Project Screenshot](https://github.com/SpandanBasu/Watch-2-Gather/blob/master/watchtogether.jpeg?raw=true)
+
 # Features:
 
 1. One device plays video. And Other connected device starts playing at the same time
@@ -10,6 +12,8 @@ An Application to watch movies together with your long distance friends and fami
 # Highlights
 
 Now you can connect with a call and watch movies with your loved ones. No matter how far you are nothing can prevent your movie time together
+
+![Project Screenshot](https://github.com/SpandanBasu/Watch-2-Gather/blob/master/watchtogather2.png?raw=true)
 
 # Functional Requirement Analysis
 
